@@ -1,0 +1,17 @@
+https://codeforces.com/problemset/problem/1535/A (done)
+https://codeforces.com/problemset/problem/214/A (in queue) [all test case accepted]
+https://codeforces.com/problemset/problem/320/A 
+https://www.hackerrank.com/challenges/summing-the-n-series/problem 
+https://www.hackerrank.com/challenges/number-groups/problem 
+https://codeforces.com/problemset/problem/1498/A  (tried)
+https://codeforces.com/problemset/problem/1466/A 
+https://codeforces.com/problemset/problem/490/A 
+https://codeforces.com/problemset/problem/758/A 
+https://codeforces.com/problemset/problem/1374/A  (TLE) 
+https://codeforces.com/problemset/problem/1512/A  (done)
+https://codeforces.com/problemset/problem/199/A   (done)
+https://codeforces.com/problemset/problem/1269/A (done)
+https://codeforces.com/problemset/problem/1496/A 
+https://codeforces.com/problemset/problem/1428/C 
+https://codeforces.com/problemset/problem/1633/C (tried)
+https://codeforces.com/problemset/problem/1499/B 

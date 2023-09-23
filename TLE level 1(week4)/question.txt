@@ -1,0 +1,12 @@
+https://cses.fi/problemset/task/1083 (done) 
+https://cses.fi/problemset/task/1094 (done on vs code wrong ans on portal)
+https://cses.fi/problemset/task/1713 
+https://leetcode.com/problems/find-the-distance-value-between-two-arrays/  (done) 
+https://codeforces.com/problemset/problem/1335/C 
+https://codeforces.com/problemset/problem/1374/B 
+https://cses.fi/problemset/task/1071  (no)
+https://cses.fi/problemset/task/1755 
+https://codeforces.com/problemset/problem/1343/C 
+https://codeforces.com/problemset/problem/1327/A 
+https://codeforces.com/contest/1360/problem/C 
+https://codeforces.com/contest/1624/problem/B 

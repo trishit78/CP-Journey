@@ -1,0 +1,18 @@
+https://codeforces.com/problemset/problem/1/A (done)
+https://codeforces.com/problemset/problem/263/A (done)
+https://codeforces.com/problemset/problem/112/A (done) 
+https://codeforces.com/problemset/problem/318/A (wrong ans)   getting tle on 1 tc
+https://codeforces.com/problemset/problem/96/A (done)
+https://codeforces.com/problemset/problem/1030/A (done)
+https://codeforces.com/problemset/problem/630/A (done)
+https://codeforces.com/problemset/problem/61/A   (done)  
+https://codeforces.com/problemset/problem/271/A (done)
+https://codeforces.com/problemset/problem/1343/B (not able to understand)  //
+https://codeforces.com/problemset/problem/579/A (wrong answer on test case 3)  not done
+https://codeforces.com/problemset/problem/1520/A (n) //
+https://codeforces.com/problemset/problem/1360/A (done)
+https://codeforces.com/problemset/problem/703/A (done)  
+https://codeforces.com/problemset/problem/1343/A (n)  //
+https://codeforces.com/group/MWSDmqGsZm/contest/329103/problem/G (done)
+https://codeforces.com/group/MWSDmqGsZm/contest/219774/problem/O (wrong ans)  Tried all not done
+https://codeforces.com/group/MWSDmqGsZm/contest/219774/problem/R (done)

@@ -1,0 +1,21 @@
+https://codeforces.com/group/MWSDmqGsZm/contest/219158/problem/J    (done)
+https://codeforces.com/group/MWSDmqGsZm/contest/219432/problem/F    (tried)
+https://codeforces.com/group/MWSDmqGsZm/contest/219158/problem/T   (not done)
+https://codeforces.com/group/MWSDmqGsZm/contest/219432/problem/K   (done)
+https://codeforces.com/group/MWSDmqGsZm/contest/219432/problem/H   (done)
+https://codeforces.com/group/MWSDmqGsZm/contest/219432/problem/C  (done)
+https://codeforces.com/group/MWSDmqGsZm/contest/219158/problem/F  (done)
+https://codeforces.com/group/MWSDmqGsZm/contest/219432/problem/Z  (not done)
+https://codeforces.com/problemset/problem/734/A (done) 
+https://codeforces.com/group/MWSDmqGsZm/contest/219158/problem/U (not tried)
+https://codeforces.com/group/MWSDmqGsZm/contest/219432/problem/J (done)
+https://codeforces.com/group/MWSDmqGsZm/contest/326907/problem/D  (TLE)
+https://codeforces.com/group/MWSDmqGsZm/contest/219432/problem/E  (done)
+https://codeforces.com/group/MWSDmqGsZm/contest/219158/problem/X
+https://codeforces.com/problemset/problem/4/A  (done)
+https://codeforces.com/problemset/problem/71/A
+https://codeforces.com/problemset/problem/50/A
+https://codeforces.com/group/MWSDmqGsZm/contest/219432/problem/X
+https://codeforces.com/group/MWSDmqGsZm/contest/219432/problem/T (tried)
+https://codeforces.com/group/MWSDmqGsZm/contest/219158/problem/Z  (done)
+
