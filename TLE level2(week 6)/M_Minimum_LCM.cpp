@@ -24,15 +24,21 @@ signed main()
     {
         int n;
         cin>>n;
-        int a,b;
-        int ans=INT_MAX;
-        unordered_map<pair<int,int>,int> mp;
-        for(int a=1;a<=n/2;a++){
-            b=n-a;
-            int x = lcm(a,b);
-            mp.p
-            ans = min(ans,x);
+        int a =1;
+        int b= n-1;
+        int curr=n-1;
+        for(int i=2;i*i<=n;i++){
+            if(n%i==0){
+                int x = max((n/i),(n-(n/i)));
+                int y = min((n/i),(n-(n/i)));
+                int temp = lcm(x,y);
+                if(temp<curr){
+                    curr=temp;
+                    a=y;
+                    b=x;
+                }
+            }
         }
-        cout<<ans<<endl;
+        cout<<a<<" "<<b<<endl;
     }
 }

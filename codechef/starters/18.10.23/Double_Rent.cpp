@@ -2,18 +2,14 @@
 using namespace std;
 
 
-//#define int long long
+#define int long long
 const int MOD = 1e9 + 7;
 const int INF = LLONG_MAX >> 1;
 signed main()
 {
     ios::sync_with_stdio(false);
     cin.tie(NULL);
-    int tc=1;
-    //cin >> tc;
-    while (tc--)
-    {
-        float ans = pow(10,2);
-        cout<<ans<<endl;
-    }
+    int n;
+    cin>>n;
+    cout<<2*n<<endl;
 }
